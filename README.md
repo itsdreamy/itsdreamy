@@ -32,14 +32,10 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <!-- Dark mode -->
-  <img src="https://github-readme-stats.vercel.app/api?username=itsdreamy&show_icons=true&theme=radical#gh-dark-mode-only" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsdreamy&layout=compact&theme=radical#gh-dark-mode-only" height="180"/>
-
-  <!-- Light mode -->
-  <img src="https://github-readme-stats.vercel.app/api?username=itsdreamy&show_icons=true&theme=default#gh-light-mode-only" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsdreamy&layout=compact&theme=default#gh-light-mode-only" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=itsdreamy&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsdreamy&layout=compact&theme=tokyonight" height="180"/>
 </p>
+
 
 
 ---
