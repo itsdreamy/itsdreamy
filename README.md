@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="img/TOJI.jpeg" alt="Toji" width="200"/>
-</p>
-
 <h1 align="center">👋 Hello World, I'm Syifa Nurul Fadilah!</h1>
 
 <p align="center">
@@ -77,4 +73,8 @@
   <a href="https://www.linkedin.com/in/syifa-nurul-fadilah/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/hush404_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:syifasaepulbachri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="img/TOJI.jpeg" alt="Toji" width="200"/>
 </p>
