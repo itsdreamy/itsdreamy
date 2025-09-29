@@ -76,5 +76,5 @@
 </p>
 
 <p align="center">
-  <img src="img/TOJI.jpeg" alt="Toji" width="200"/>
+  <img src="img/TOJI.jpeg" alt="Toji"/>
 </p>
